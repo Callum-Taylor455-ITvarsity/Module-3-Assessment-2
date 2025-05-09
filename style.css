@@ -63,20 +63,20 @@ body{
 }
 
 .meals-list-item{
-border: 5px solid whitesmoke;
+border: 5px solid black;
 margin: 10px;
 }
 
 .meals-list-item h1 {
 font-weight: bold;
 font-size: 20px;
-color: white;
+color: black;
 padding-left: 10px;
 }
 
 .meals-list-item i {
 float: right;
-color: whitesmoke;
+color: black;
 padding-right: 10px;
 
 }
@@ -84,7 +84,7 @@ padding-right: 10px;
 .meals-list-item p {
 font-size: 15px;
 font-style: italic;
-color: cornsilk;
+color: black;
 margin-top: -7px;
 padding-left: 10px;
 }
